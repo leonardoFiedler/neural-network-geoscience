@@ -1,4 +1,3 @@
-/data/raw/hidden.csv
-/data/raw/lithology.csv
+/data/raw/*
 .DS_Store
 .venv/*
